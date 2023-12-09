@@ -4,7 +4,7 @@
 
 ### I'm passionate about exploring various programming languages and applying my knowledge to real-world projects. In addition to my academic pursuits, I actively contribute to personal and university projects, constantly expanding my skills in the dynamic field of software development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaNogoliver&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### I embarked on my academic journey by delving into Java and SQL during my university studies. Subsequently, I extended my skill set in the professional realm, where I actively contributed to front-end development. 
 ### Leveraging technologies such as JavaScript and TypeScript within the Angular framework, I had the opportunity to create impactful tools and enhance my proficiency in web development. 
